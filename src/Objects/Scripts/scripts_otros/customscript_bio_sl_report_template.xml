@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_bio_sl_report_template">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Biomont SL Report Template</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/AprendiendoSuiteScript_Jorge/scripts_otros/3 bio_sl_report_template.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_bio_sl_report_template">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>F</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>TESTING</status>
+      <title>Biomont SL Report</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>
